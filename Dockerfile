@@ -1,5 +1,5 @@
 # Base leve do Node
-FROM node:18-alpine
+FROM n8nio/n8n:latest
 
 # Diretório de trabalho
 WORKDIR /app
